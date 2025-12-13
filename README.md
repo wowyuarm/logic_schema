@@ -1,4 +1,4 @@
-[LOGIC_SCHEMA](LOGIC_SCHEMA.md) 既是一个 prompt，也是定义一套逻辑优先的 meta-language —— 介于人类协作者与coding agent 之间。
+[LOGIC_SCHEMA](LOGIC_SCHEMA.md) 既是一个 prompt，也是定义一套逻辑优先的 meta-language —— 介于人类协作者与 coding agent 之间。
 
 主要为了减少与 AI 协作中的心智负担，我们只需要关心主要逻辑。
 
